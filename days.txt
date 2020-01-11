@@ -1,6 +1,6 @@
 Sunday
 Monday
-Tuesday
+Tuesday -- added words
 Wednesday
 Thursday
 Friday
